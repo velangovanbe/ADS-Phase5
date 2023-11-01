@@ -8,6 +8,25 @@ dataset segmentation principles using K-Means clustering algorithms. I used pyth
 validated based on the calculation of Elbow method and Silhouette Coefficient. In result, identify target customer segment by divide into groups according to common characteristics
 and also visualize the four features of customers based on dataset so that the sense can be given to marketing team and plan the strategy accordingly.
 
+Customer segmentation is the process of dividing a customer base into distinct groups or segments based on common characteristics,
+such as demographics, behavior, or preferences. 
+This allows businesses to tailor their marketing strategies and services to each segment's unique needs and 
+preferences.
+Dataset:
+A dataset is a collection of data, often organized in tabular format, that includes information about customers,
+such as demographics, transaction history, or other relevant attributes. In a customer segmentation project, the dataset typically 
+includes information about the customers you aim to segment.
+Loading Data:
+Loading data refers to the process of importing or reading a
+dataset into a software environment, such as Python, for analysis. In Python, 
+libraries like Pandas are commonly used to load data from
+various sources, such as CSV files, Excel sheets, or databases.
+Preprocessing:
+Data preprocessing involves cleaning, transforming,
+and organizing data to make it suitable for analysis.
+Common preprocessing tasks include handling missing values,
+encoding categorical variables, scaling or normalizing numerical
+ features, and removing irrelevant columns.
 
 # **Customer-Segmentation**
 # Import our wrangling and visualization library
