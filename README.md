@@ -10,7 +10,12 @@ and also visualize the four features of customers based on dataset so that the s
 
 
 # **Customer-Segmentation**
-
+# Import our wrangling and visualization library
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+import plotly.express as px
+import numpy as np
 # Use Case
 
 - Use Case Summary
